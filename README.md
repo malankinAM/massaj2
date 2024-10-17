@@ -9,5 +9,5 @@
 
 
 ## Click ('')
- <img src="./reqadme.png" title="css"  width="850px" height="500px"/>
+ <img src="./reqadme.png" title="css"  width="250px" height="500px"/>
 
